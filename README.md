@@ -14,7 +14,7 @@ Github Lens is a web application that allows users to easily find details of Git
 ## How to Use
 
 #### simply visit the website and enter the username of the user you want to search for.
-Visit ht
+Visit [Github Lens](https://githublens.vercel.app/) and enter the username of the user you want and get the details of the user.
 
 ## Installation
 
